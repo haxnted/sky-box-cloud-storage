@@ -1,4 +1,4 @@
-**# sky-box-cloud-storage
+## sky-box-cloud-storage
 📂 Overview
 FileSphere is a web application designed for seamless file uploading and secure storage on a server. With a user-friendly frontend and robust backend, it allows users to effortlessly manage their files in one place.
 
